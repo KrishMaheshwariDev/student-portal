@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+*.iml
+/build
+/.gradle
+/out
+.DS_Store
+
+# Node
+node_modules/
+dist/
+
+.vscode/
+.idea/
+bin/
