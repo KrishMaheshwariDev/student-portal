@@ -15,10 +15,12 @@ A full-stack project to manage student attendance with **role-based access**.
 
 ## 📂 Project Structure
 
+```bash
 attendance-portal/
 ├── backend/ # Spring Boot (Gradle)
 ├── frontend/ # React App
 ├── docs/ # Documentation
+```
 
 
 ## 🔧 Setup Instructions
